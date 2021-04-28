@@ -11,7 +11,7 @@ File structure and logic:
 3. mapanimation.js is the main file containing the dynamic coding and logic.  We track and show an animation on a map.  The button is used as a marker to show the movement from starting bus stop to destination bus stop. 
 
 Installation:
-1. Download the code from git.
+1. Download the code from git, https://github.com/suhasini-uidev/BusstopTracker
 2. Make sure all the files are in a directory as listed here:
 index.html, mapanimation.js and styles.css files in the main folder, <Busstoptracker>
 
